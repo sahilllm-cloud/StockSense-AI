@@ -2,8 +2,7 @@
 
 A stock price prediction system that analyzes news articles to forecast monthly stock prices.
 
-## Live Demo
-Try it out: [Stock-Chatbot Live](https://stock-chatbot-rnyxvguyy6tvzyftwbzbaw.streamlit.app/)
+
 
 ## Process Flow
 1. User enters a company name
